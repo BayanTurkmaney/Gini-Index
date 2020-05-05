@@ -84,7 +84,7 @@ def main():
     y_pred_gini = prediction(X_test, clf_gini)
     cal_accuracy(y_test, y_pred_gini)
 
-    print("Results Using Entropy:")
+
 
 
 
