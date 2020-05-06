@@ -1,5 +1,2 @@
-
-من أكبر التحديات التي تواجه شجرة القرار  هو تحديد المتحول الأنسب ليكون عقدة شجرة القرار، وهذا ما يسمى بعملية اختيار السمات ، ونميز منها مقياس جيني الذي يعمل مع المتغير المستهدف الفئوي "النجاح" أو "الفشل "  .
-ينفذ الانقسامات الثنائية فقط، وكلما زادت قيمة جيني  ، زاد التجانس بين مجموعات البيانات
-
-
+#Gini-Index
+One of the most challenges facing the decision tree is determining the most appropriate variable to be the decision tree node, and this is called the feature selection process, and we distinguish from it a genetic scale that works with the targeted target variable "success" or "failure". It only performs binary divisions, and the higher the genetic value, the greater the homogeneity of the data.
